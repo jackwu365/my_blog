@@ -28,7 +28,7 @@ class Base
 	 * 
 	 * @param string $fileName			文件名称
 	 * @param string $fileType			文件类型 
-	 * @param int $type					导入目录类型:0->core, 1->plugins	
+	 * @param int $type			导入目录类型:0->core, 1->plugins	
 	 * @static
 	 * @access public
 	 * @return bool						返回导入标记
